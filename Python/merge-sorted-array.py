@@ -1,6 +1,7 @@
 from __future__ import print_function
 # Time:  O(n)
-# Space: O(1)
+# Space: O(1)'
+
 #
 # Given two sorted integer arrays A and B, merge B into A as one sorted array.
 #
